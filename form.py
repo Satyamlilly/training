@@ -3,7 +3,7 @@ age=input("your age\n")
 phone=input("your phone\n")
 
 if(len(name)!=0):
-    print("correct age")
+    print("correct name")
 else:
     print("enter correct name")
 if(int(age)>18 and age.isdigit()):

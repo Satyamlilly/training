@@ -1,0 +1,9 @@
+
+The entered details are as follow
+Name:a
+Surname:b
+City:c
+Age:23
+Phone:1212211221
+Salary:323232
+Department:we
