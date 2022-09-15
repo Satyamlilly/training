@@ -3,7 +3,7 @@ The entered details are as follow
 Name:a
 Surname:b
 City:c
-Age:23
-Phone:1212211221
-Salary:323232
-Department:we
+Age:21
+Phone:1232132132
+Salary:Rs123213
+Department:new
