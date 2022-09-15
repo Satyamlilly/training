@@ -1,0 +1,11 @@
+import cal
+name=input("first name")
+lname=input("last name")
+sal=int(input("enter salary"))
+print("NAME:"+name+lname)
+print("HRA")
+print(cal.hra(sal))
+print("DA")
+print(cal.da(sal))
+print("BONUS")
+print(cal.bon(sal))
